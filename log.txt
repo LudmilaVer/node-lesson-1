@@ -1,0 +1,3 @@
+Another log message
+This is the first log message
+Yet another log entry
